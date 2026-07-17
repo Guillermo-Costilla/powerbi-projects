@@ -60,3 +60,7 @@ categoría y evolución mensual. Cubre 2 años completos: 2024 y 2025.
 ## Stack
 
 Power BI Desktop · DAX · Power Query · Modelo estrella
+
+## Link informe:
+
+https://app.powerbi.com/view?r=eyJrIjoiZTE5ZTNmNDAtOTNmMC00MDlmLThjNzgtNTZlNjBhNzdhMDc0IiwidCI6IjFlZmUxZjBmLTMwNWUtNDI5Zi1hYzg5LTRkMThmNmI2OTAyMCIsImMiOjR9
