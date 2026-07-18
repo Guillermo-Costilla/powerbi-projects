@@ -16,12 +16,22 @@ desempeño sobre 194 empleados distribuidos en 6 departamentos.
 
 ---
 
-### 💰 Finanzas Personales *(en progreso)*
+### 💰 Finanzas Personales
 Análisis de ingresos, gastos y tendencias financieras personales.
 
 **Stack:** Power BI · Power Query · DAX
 
 [Ver proyecto](./finanzas-personales/)
+
+---
+
+### 📞 Customer Experience - NPS
+Análisis integral del servicio de atención al cliente: NPS por 
+negocio, evolución semanal y ranking de rendimiento por agente.
+
+**Stack:** Power BI · Power Query · DAX
+
+[Ver proyecto](./customer-experience/)
 
 ## Tecnologías
 
